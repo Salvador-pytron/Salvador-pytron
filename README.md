@@ -1,5 +1,5 @@
 <!-- ЗАГОЛОВОК С ЭМОДЗИ И СТАТУСОМ -->
-<h1 align="center">👋 Привет, я <span style="color:#00ff88;">ТВОЙ_НИК</span></h1>
+<h1 align="center">👋 Привет, я <span style="color:#00ff88;">Salvador</span></h1>
 <h3 align="center">🚀 ML-инженер | Computer Vision & NLP | Python-разработчик</h3>
 
 <!-- АНИМИРОВАННАЯ СТРОКА (используй readme-typing-svg) -->
