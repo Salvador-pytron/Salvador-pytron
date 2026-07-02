@@ -33,19 +33,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<!-- ПРОЕКТЫ (ВИДЖЕТЫ С ССЫЛКАМИ) -->
-<h3 align="center">📌 Избранные проекты</h3>
-<p align="center">
-  <a href="https://github.com/ТВОЙ_НИК/image-classifier-cnn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ТВОЙ_НИК&repo=image-classifier-cnn&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/ТВОЙ_НИК/nlp-text-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ТВОЙ_НИК&repo=nlp-text-analyzer&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/ТВОЙ_НИК/fastapi-ml-deploy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ТВОЙ_НИК&repo=fastapi-ml-deploy&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
+
 
 <!-- СТРОКА ПРОЦЕССА (АКТИВНОСТЬ) -->
 <h3 align="center">📊 Трекер активности</h3>
